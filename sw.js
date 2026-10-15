@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kazan-cache-v1';
+const CACHE_NAME = 'kazan-cache-v2';
 const urlsToCache = [
   './',
   './index.html',
